@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://intensive-code-unit.heroku.com
+title: Intensive Code Unit
+subtitle: Iora Health's technical blog.
+author: Iora Health
 simple_search: http://google.com/search
 description:
 
